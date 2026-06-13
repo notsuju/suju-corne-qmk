@@ -7,6 +7,17 @@ _optimised for hyprland and nvim<3_
 </div>
 
 ---
+## Key Features
 
-## Layout
+- QWERTY layout
+- Mouse on Navigation layer
+- Vim like navigation
+- Number and navigation on the same layer
+- Dedicated hyprland management layer
+> [!IMPORTANT]
+> This is still work in progress.
+
+## Layers
 ![layout](assets/my_keymap.svg)
+
+Made using [Keymap-Drawer](https://github.com/caksoylar/keymap-drawer)
