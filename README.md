@@ -10,27 +10,26 @@ _optimised for hyprland and nvim<3_
 ## Key Features
 
 - QWERTY layout
-- Mouse on Navigation layer
+- Dedicated Mouse layer
 - Vim like navigation
 - Number and navigation on the same layer
-- Dedicated hyprland management layer
 > [!IMPORTANT]
-> This is still work in progress.
+> I am still tring to find the perfect balance.
 
 ## Layers
 
-# Base Layer
+### Base Layer
 
 ![Base](assets/baselayer.png)
 
-# Layer 1(Numbers and Navigation)
+### Layer 1(Numbers and Navigation)
 
 ![Nubmers](assets/layer1.png)
 
-# Layer 3(Symbols)
+### Layer 3(Symbols)
 
 ![Symbols](assets/layer3.png)
 
-# Layer 4(Mouse and Extras)
+### Layer 4(Mouse and Extras)
 
-![Mouse](assets/layer4.png)
+![Mouse](assets/layer4Extras.png)
