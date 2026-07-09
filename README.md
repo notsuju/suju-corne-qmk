@@ -18,6 +18,19 @@ _optimised for hyprland and nvim<3_
 > This is still work in progress.
 
 ## Layers
-![layout](assets/my_keymap.svg)
 
-Made using [Keymap-Drawer](https://github.com/caksoylar/keymap-drawer)
+# Base Layer
+
+![Base](assets/baselayer.png)
+
+# Layer 1(Numbers and Navigation)
+
+![Nubmers](assets/layer1.png)
+
+# Layer 3(Symbols)
+
+![Symbols](assets/layer3.png)
+
+# Layer 4(Mouse and Extras)
+
+![Mouse](assets/layer4.png)
