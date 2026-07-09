@@ -24,7 +24,7 @@ _optimised for hyprland and nvim<3_
 
 ### Layer 1(Numbers and Navigation)
 
-![Nubmers](assets/layer1.png)
+![Nubmers](assets/layer1Num.png)
 
 ### Layer 3(Symbols)
 
